@@ -77,6 +77,11 @@ Signifiers
 > 设计师发现他们在为电子设备做界面设计时，需要一种方法来标示哪些部分可以感触、上滑、下滑，或侧滑，或点击。由于没有合适的词来描述，于是设计师们用了最接近的现成的词「Affordance」（示能），用 “我放了一个示能在那里” 来表达它们为什么在屏幕上显示为一个圆圈，表明那里可以触摸或点击。
 而与 Gibson 不同的是 Norman 使用这个词实际上被理解为 Perceived Affordance（预设用途），意指可被感知的有意义的示能，而向用户提示这些有意义的、可被感知的示能有什么功能的符号则被称为意符（Signifiers，即上文提及的界面中的圆圈等）。[更多](https://www.douban.com/note/647135927/)
 
+- climate：气候
+- radio: 收音机
+- Estimates: 估计
+- maneuvers 策略
+
 ## 文章翻译
 
 [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
